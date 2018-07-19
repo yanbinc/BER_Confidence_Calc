@@ -1,4 +1,4 @@
-# BER_Confidence_Calc
+# BER_Confidence_Calculation
 
 A simple tool for BER confidence level calculation.
 
